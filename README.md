@@ -59,7 +59,7 @@ To secure an internship where I can apply my knowledge in Machine Learning, enha
 ## 💻 Project Experience
 
 ### 🚗 Car Price Prediction System
-link: (https://www.youtube.com/live/gQbdq98mv0I?si=rmf0eqsv3FHMPX9l)
+[link](https://www.youtube.com/live/gQbdq98mv0I?si=rmf0eqsv3FHMPX9l)
 
 - Developed a predictive model using **Random Forest Regression**
 - Worked with real-world vehicle dataset
